@@ -1,0 +1,7 @@
+deps/
+*.dump
+ebin/
+.erlang.mk/
+http_server.d
+_rel/
+.tool-versions
